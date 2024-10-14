@@ -1,12 +1,7 @@
-- 👋 Hi, I am MD ABU SAYEM
-- 👀 I’m interested in AI and Data Science
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Data Science Project
-- 📫 How to reach me ...-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm MD ABU SAYEM — a passionate Data Scientist and academic writer, with a deep enthusiasm for AI, Machine Learning (ML), Deep Learning (DL), and their applications. I’m actively exploring fields like ML, DL, Natural Language Processing (NLP), and Computer Vision, constantly sharpening my skills.
 
-<!---
-ASAbuSayem/ASAbuSayem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Programming Languages: Python
+🤝 I’m looking to collaborate on open-source projects and engage with like-minded individuals in the AI and Data Science community.
+
+Feel free to ask me about Data Science, AI, or any exciting project ideas! Let's build something great together!
+
