@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#131A35"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .row { opacity: 0; animation: slideIn 0.8s ease forwards; }
+    @keyframes slideIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: translateX(0); } }
+    .ring { animation: ring 2.2s ease-in-out infinite; }
+    @keyframes ring { 0%, 100% { opacity: 0.15; } 50% { opacity: 0.6; } }
+    .txt { fill: #C9D1D9; font-size: 17px; }
+    .hl { fill: #00D9FF; font-weight: 600; }
+  </style>
+
+  <rect width="1000" height="330" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="999" height="329" rx="16" fill="none" stroke="#1E2A4A"/>
+
+  <text x="50" y="55" class="sans" font-size="28" font-weight="700" fill="url(#titleGrad)">About Me</text>
+  <rect x="50" y="68" height="3" rx="1.5" width="0" fill="url(#titleGrad)">
+    <animate attributeName="width" from="0" to="160" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="50" y="98" class="sans" font-size="15" fill="#8B949E">M.Tech CSE (AI/ML)  ·  MRIIRS, India</text>
+
+  <g class="row sans" style="animation-delay:0.3s">
+    <circle cx="60" cy="134" r="10" fill="none" stroke="#00D9FF" class="ring"/>
+    <circle cx="60" cy="134" r="4.5" fill="#00D9FF" filter="url(#glow)"/>
+    <text x="84" y="140" class="txt">Researching <tspan class="hl">hybrid CNN–Transformer architectures</tspan> for medical image diagnosis</text>
+  </g>
+  <g class="row sans" style="animation-delay:0.6s">
+    <circle cx="60" cy="174" r="10" fill="none" stroke="#3B82F6" class="ring" style="animation-delay:0.4s"/>
+    <circle cx="60" cy="174" r="4.5" fill="#3B82F6" filter="url(#glow)"/>
+    <text x="84" y="180" class="txt">Exploring <tspan class="hl">GeoAI</tspan> — climate-driven spatio-temporal models for disease risk prediction</text>
+  </g>
+  <g class="row sans" style="animation-delay:0.9s">
+    <circle cx="60" cy="214" r="10" fill="none" stroke="#6366F1" class="ring" style="animation-delay:0.8s"/>
+    <circle cx="60" cy="214" r="4.5" fill="#6366F1" filter="url(#glow)"/>
+    <text x="84" y="220" class="txt">Benchmarking <tspan class="hl">small open-weight LLMs</tspan> for low-resource languages (Bangla / English)</text>
+  </g>
+  <g class="row sans" style="animation-delay:1.2s">
+    <circle cx="60" cy="254" r="10" fill="none" stroke="#8B5CF6" class="ring" style="animation-delay:1.2s"/>
+    <circle cx="60" cy="254" r="4.5" fill="#8B5CF6" filter="url(#glow)"/>
+    <text x="84" y="260" class="txt">Shipping models to production with <tspan class="hl">FastAPI, React Native &amp; Flutter</tspan></text>
+  </g>
+  <g class="row sans" style="animation-delay:1.5s">
+    <circle cx="60" cy="294" r="10" fill="none" stroke="#A78BFA" class="ring" style="animation-delay:1.6s"/>
+    <circle cx="60" cy="294" r="4.5" fill="#A78BFA" filter="url(#glow)"/>
+    <text x="84" y="300" class="txt"><tspan class="hl">Academic Writer</tspan> — publishing research in AI, healthcare &amp; GeoAI</text>
+  </g>
+</svg>

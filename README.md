@@ -1,99 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+MD+ABU+SAYEM;AI+%2F+ML+Engineer+%26+Researcher;Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Building+intelligent+systems+that+matter" alt="Typing SVG" />
+<img src="intro.svg" width="100%" alt="MD ABU SAYEM — AI / ML Engineer"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Hybrid+CNN-Transformer+models+for+healthcare;Turning+research+into+real-world+AI+products" alt="Typing SVG" />
 
 <p>
-  <a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ASAbuSayem&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="profile views"/>
+  <a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ASAbuSayem&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<img src="about.svg" width="100%" alt="About Me"/>
 
-```python
-class AbuSayem:
-    role       = "AI / ML Engineer | Researcher | Academic Writer"
-    education  = "M.Tech CSE (AI/ML) — MRIIRS, India"
-    focus      = ["Deep Learning", "Medical Imaging", "GeoAI", "LLMs & NLP", "Computer Vision"]
-    building   = ["Hybrid fusion DL models", "AI-powered mobile apps", "FastAPI ML backends"]
-    currently  = "Turning research models into real-world AI products 🚀"
+<br/>
 
-    def say_hi(self):
-        print("Let's build something intelligent together!")
-```
-
-- 🔬 Researching **hybrid CNN–Transformer architectures** for medical image diagnosis
-- 🌍 Exploring **GeoAI** — climate-driven spatio-temporal models for disease risk prediction
-- 🤖 Benchmarking **small open-weight LLMs** for low-resource languages (Bangla/English)
-- 📱 Shipping models to production with **FastAPI, React Native & Flutter**
-- ✍️ **Academic Writer** — publishing research in AI, healthcare & GeoAI
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / ML / DL**
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Keras-161B22?style=for-the-badge&logo=keras&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&logo=opencv&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=00D9FF"/>
 </p>
 
 **Languages & Data**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/R-161B22?style=for-the-badge&logo=r&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Matplotlib-161B22?style=for-the-badge&logo=plotly&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Power%20BI-161B22?style=for-the-badge&logo=powerbi&logoColor=3B82F6"/>
 </p>
 
 **Deployment & Apps**
 
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Expo-161B22?style=for-the-badge&logo=expo&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Google%20Colab-161B22?style=for-the-badge&logo=googlecolab&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Overleaf-161B22?style=for-the-badge&logo=overleaf&logoColor=8B5CF6"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ASAbuSayem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASAbuSayem&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ASAbuSayem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=00D9FF" />
+<img height="170" src="https://streak-stats.demolab.com?user=ASAbuSayem&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
 
-<img src="https://streak-stats.demolab.com?user=ASAbuSayem&theme=tokyonight&hide_border=true" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASAbuSayem&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 💡 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASAbuSayem&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=00D9FF&area_color=8B5CF6&title_color=00D9FF" />
 
 </div>
 
@@ -101,10 +73,10 @@ class AbuSayem:
 
 <div align="center">
 
-### 🤝 Open to research collaborations & AI/ML projects
+### Open to research collaborations & AI/ML projects
 
-<a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-Send_an_Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/></a>
+<a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-Send_an_Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Send an Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8B5CF6&height=120&section=footer"/>
 
 </div>
