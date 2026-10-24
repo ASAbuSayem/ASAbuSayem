@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="intro.svg" width="100%" alt="MD ABU SAYEM — AI / ML Engineer"/>
+<img src="face.svg" width="100%" alt="MD ABU SAYEM — AI / ML Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Hybrid+CNN-Transformer+models+for+healthcare;Turning+research+into+real-world+AI+products" alt="Typing SVG" />
 
@@ -66,6 +66,16 @@
 <img height="170" src="https://streak-stats.demolab.com?user=ASAbuSayem&hide_border=true&background=0D1117&ring=00D9FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ASAbuSayem&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=00D9FF&area_color=8B5CF6&title_color=00D9FF" />
+
+</div>
+
+---
+
+## Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
