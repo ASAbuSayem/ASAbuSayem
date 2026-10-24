@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+ABU+SAYEM;AI+%2F+ML+Engineer+%26+Researcher;Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Building+intelligent+systems+that+matter" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+ABU+SAYEM;AI+%2F+ML+Engineer+%26+Researcher;Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Building+intelligent+systems+that+matter" alt="Typing SVG" />
 <p>
   <a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Email-abusayem2425%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ASAbuSayem&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="profile views"/>
