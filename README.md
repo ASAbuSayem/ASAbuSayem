@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+MD+ABU+SAYEM;AI+%2F+ML+Engineer+%26+Researcher;Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Building+intelligent+systems+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+MD+ABU+SAYEM;AI+%2F+ML+Engineer+%26+Researcher;Deep+Learning+%7C+Medical+Imaging+%7C+GeoAI;Building+intelligent+systems+that+matter" alt="Typing SVG" />
+
 <p>
-  <a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Email-abusayem2425%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=ASAbuSayem&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
@@ -14,7 +15,7 @@
 
 ```python
 class AbuSayem:
-    role       = "AI / ML Engineer & Researcher"
+    role       = "AI / ML Engineer | Researcher | Academic Writer"
     education  = "M.Tech CSE (AI/ML) — MRIIRS, India"
     focus      = ["Deep Learning", "Medical Imaging", "GeoAI", "LLMs & NLP", "Computer Vision"]
     building   = ["Hybrid fusion DL models", "AI-powered mobile apps", "FastAPI ML backends"]
@@ -28,7 +29,7 @@ class AbuSayem:
 - 🌍 Exploring **GeoAI** — climate-driven spatio-temporal models for disease risk prediction
 - 🤖 Benchmarking **small open-weight LLMs** for low-resource languages (Bangla/English)
 - 📱 Shipping models to production with **FastAPI, React Native & Flutter**
-- 📝 Writing research papers in **LaTeX / Overleaf**
+- ✍️ **Academic Writer** — publishing research in AI, healthcare & GeoAI
 
 ---
 
@@ -101,6 +102,8 @@ class AbuSayem:
 <div align="center">
 
 ### 🤝 Open to research collaborations & AI/ML projects
+
+<a href="mailto:abusayem2425@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-Send_an_Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F5AF0&height=120&section=footer"/>
 
